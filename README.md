@@ -3,7 +3,7 @@ Clone this repository to your machine
 ```
 git clone https://github.com/bit-frame/WebcamServer.git
 ```
-After, navigate to the  install these things to get the webserver up and running
+After, navigate to the directory and install these things to get the webserver up and running
 ```
 sudo apt install ffmpeg nodejs npm
 npm install express
